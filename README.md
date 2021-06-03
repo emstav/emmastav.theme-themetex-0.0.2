@@ -11,8 +11,8 @@ Go into the command palette and test themes.
 
 Add the following into the .json settings, or preferably, the code workspace settings:
  	"editor.semanticHighlighting.enabled": false,
-		"editor.renderLineHighlight": "none",
-		"editor.occurrencesHighlight": false,
+	"editor.renderLineHighlight": "none",
+	"editor.occurrencesHighlight": false,
 
 
 See all themes here:
