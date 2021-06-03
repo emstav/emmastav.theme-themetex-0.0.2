@@ -1,0 +1,108 @@
+{
+	"name": "theme-themetex",
+	"displayName": "LaTeX Themes",
+	"version": "0.0.1",
+	"publisher": "Emma",
+	"engines": {
+		"vscode": "^1.54.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "TeX GruvboxConcoctis Dark (Hard)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/d-gruvboxconc-darkhard-texe.json"
+			},
+			{
+				"label": "TeX GruvboxConcoctis Dark (Medium)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/d-gruvboxconc-darkmed-texe.json"
+			},
+			{
+				"label": "TeX GruvboxConcoctis Dark (Soft)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/d-gruvboxconc-darksoft-texe.json"
+			},
+			{
+				"label": "TeX Zenburn Higher Contrast",
+				"uiTheme": "vs-dark",
+				"path": "./themes/d-highercontrastzenburn-tex.json"
+			},
+			{
+				"label": "TeX Horizon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/d-horizon-tex.json"
+			},
+			{
+				"label": "TeX Japanesque Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/d-japanesque-dark-texe.json"
+			},
+			{
+				"label": "TeX Nawal",
+				"uiTheme": "vs-dark",
+				"path": "./themes/d-nawal-texe.json"
+			},
+			{
+				"label": "TeX Ocean Deep",
+				"uiTheme": "vs-dark",
+				"path": "./themes/d-oceandeep-cleartex.json"
+			},
+			{
+				"label": "TeX Rubecula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/d-rubecula-cleartex.json"
+			},
+			{
+				"label": "TeX Better Solarized Light",
+				"uiTheme": "vs",
+				"path": "./themes/l-bettersolarizedlight-texe.json"
+			},
+			{
+				"label": "TeX Clear Dawn Inks",
+				"uiTheme": "vs",
+				"path": "./themes/l-cleardawn-inks-texe.json"
+			},
+			{
+				"label": "TeX GruvboxConcoctis Light (Hard)",
+				"uiTheme": "vs",
+				"path": "./themes/l-gruvboxconc-lighthard-texe.json"
+			},
+			{
+				"label": "TeX GruvboxConcoctis Light (Medium)",
+				"uiTheme": "vs",
+				"path": "./themes/l-gruvboxconc-lightmed-texe.json"
+			},
+			{
+				"label": "TeX Japanesque Light",
+				"uiTheme": "vs",
+				"path": "./themes/l-japanesque-texe.json"
+			},
+			{
+				"label": "TeX Noctis Hibernus",
+				"uiTheme": "vs",
+				"path": "./themes/l-noctishibernus-texe.json"
+			},
+			{
+				"label": "TeX Noctis Lilac",
+				"uiTheme": "vs",
+				"path": "./themes/l-noctislilac-texe.json"
+			},
+			{
+				"label": "TeX Noctis Lux",
+				"uiTheme": "vs",
+				"path": "./themes/l-noctislux-texe.json"
+			},
+			{
+				"label": "TeX Quiet Light",
+				"uiTheme": "vs",
+				"path": "./themes/l-quiet-light-texe.json"
+			},
+			{
+				"label": "TeX Seoul Light",
+				"uiTheme": "vs",
+				"path": "./themes/l-seoul-light-texe.json"
+			}
+		]
+	}
+}
