@@ -678,7 +678,6 @@
 			"scope": "invalid",
 			"settings": {
 				"foreground": "#F7F1D5",
-				"background": "#D05A6E",
 				"fontStyle": ""
 			}
 		},
@@ -686,7 +685,6 @@
 			"scope": "invalid.deprecated",
 			"settings": {
 				"foreground": "#F7F1D5",
-				"background": "#B07736"
 			}
 		},
 		{

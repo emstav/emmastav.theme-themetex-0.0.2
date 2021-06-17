@@ -44,6 +44,11 @@
 				"path": "./themes/d-nawal-texe.json"
 			},
 			{
+				"label": "TeX Neon Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/d-neon-night-texe.json"
+			},
+			{
 				"label": "TeX Ocean Deep",
 				"uiTheme": "vs-dark",
 				"path": "./themes/d-oceandeep-cleartex.json"
