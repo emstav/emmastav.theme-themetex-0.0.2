@@ -577,7 +577,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#DD92F677",
+				"foreground": "#83dbc294",
 				"fontStyle": "italic"
 			}
 		},
