@@ -1485,6 +1485,83 @@
 				"fontStyle": "bold"
 			}
 
-		}
+		},// mermaid .mmd syntax
+    {
+      "scope": "diagram.mmd",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "comment.line.percentage.mermaid",
+      "settings": {
+        "foreground": "#de92faaf",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "storage.type.mermaid",
+      "settings": {
+        "foreground": "#0ADEFF",
+        "fontStyle": "italic underline"
+      }
+    },
+    {
+      "scope": "string.quoted.other.mermaid",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#7EFDD0"
+      }
+    },
+    {
+      "scope": "variable.language.mermaid",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#d9ad29",
+      }
+    }, //mermaid markdown syntax
+    {
+      "scope": "text.html.markdown markup.fenced_code.block.markdown string",
+      "settings": {
+        "foreground": "#7EFDD0",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "keyword.control.mermaid",
+      "settings": {
+        "foreground": "#e9cf80",
+        "fontStyle": ""
+      } // "#dfc062"
+    },
+    {
+      "scope": "entity.name.function.mermaid",
+      "settings": {
+        "foreground": "#de92fa",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": "meta.function.mermaid keyword.control.mermaid",
+      "settings": {
+        "foreground": "#f7d673fd",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope":"meta.function.mermaid entity.name.function.mermaid",
+      "settings": {
+        "foreground": "#de92fa",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "markup.fenced_code.block.markdown variable",
+      "settings": {
+        "foreground": "#2ACCE5",
+        "fontStyle": ""
+      }
+
+    }
 	]
 }
